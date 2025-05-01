@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Ndi Raoul!<br>I'm a full-stack developer specializing in building modern web and mobile applications. I work with technologies like Next.js, React, React Native, Flutter, Node.js, and Firebase etc. to create seamless user experiences from frontend to backend. <br><br>🚀 Passionate about crafting clean, user-focused apps that solve real-world problems.<br>📱 Web + Mobile | 🔧 Full-Stack | ☁️ Firebase.<br>🌱 Always learning, always building, always growing
+👋 Hi, I'm Ndi Raoul!<br>I'm a full-stack developer specializing in building modern web and mobile applications. I work with technologies like Next.js, React, React Native, Flutter, Node.js, and Firebase etc. to create seamless user experiences from frontend to backend. <br><br>🚀 Passionate about crafting clean, user-focused apps that solve real-world problems.<br>📱 Web + Mobile | 🔧 Full-Stack .<br>🌱 Always learning, always building, always growing
 
 
 ## 🌐 Socials:
